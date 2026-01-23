@@ -1,0 +1,15 @@
+## 🗂 Dataset
+
+You can download traffic sign datasets here:
+
+- **German Traffic Sign Recognition Benchmark (GTSRB)** – classification dataset  
+  https://benchmark.ini.rub.de/gtsrb_dataset.html :contentReference[oaicite:4]{index=4}
+
+- **GTSRB Kaggle mirror** – alternative download  
+  https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign :contentReference[oaicite:5]{index=5}
+
+- **GTSDB (German Traffic Sign Detection Benchmark)** – object detection dataset  
+  https://universe.roboflow.com/mohamed-traore-2ekkp/gtsdb---german-traffic-sign-detection-benchmark :contentReference[oaicite:6]{index=6}
+
+- **Road Sign Detection dataset** – smaller object detection dataset  
+  https://datasetninja.com/road-sign-detection :contentReference[oaicite:7]{index=7}
