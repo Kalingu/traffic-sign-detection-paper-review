@@ -1,42 +1,46 @@
-# Traffic Sign Detection – Paper Review
+# Traffic Sign Detection and Recognition using Deep Learning
 
-This repository contains a deep learning paper review and experimental implementation of a Convolutional Neural Network (CNN) for traffic sign detection. The project is based on the research paper:
+## 📌 Project Overview
+This project focuses on the implementation and review of deep learning models for **traffic sign detection and recognition**, targeting applications in autonomous driving and intelligent transportation systems. The repository demonstrates how convolutional neural networks (CNNs) such as **RoadNet** and **VGG16** can be used to classify and analyze traffic signs under varying lighting and environmental conditions.
 
-> “Advancing Traffic Sign Detection with Convolutional Neural Networks: A Deep Learning Approach”
+This project is prepared as a **portfolio-quality AI/ML engineering project** suitable for internship and research purposes.
 
----
+## 🎯 Objectives
+- Reproduce and analyze a state-of-the-art traffic sign recognition research paper  
+- Implement CNN-based architectures for image classification  
+- Compare model performance using standard evaluation metrics  
+- Visualize training behavior and prediction results  
 
-## Project Purpose
+## 🗂 Dataset
+- RoadNet Traffic Sign Dataset  
+- German Traffic Sign Recognition Benchmark (GTSRB) (optional extension)  
 
-Traffic sign detection is essential for autonomous driving, advanced driver-assistance systems (ADAS), and computer vision research. This project reviews key ideas from the paper, explores preprocessing strategies, CNN architecture, and evaluates model performance empirically.
+## 🧠 Models Implemented
+- Custom Convolutional Neural Network (CNN)  
+- RoadNet Architecture  
+- VGG16 (Transfer Learning)  
 
----
+## ⚙️ Technologies Used
+- Python  
+- TensorFlow / Keras  
+- OpenCV  
+- NumPy, Pandas  
+- Matplotlib  
+- Jupyter Notebook  
 
-## Project Workflow
+## 📊 Evaluation Metrics
+- Accuracy  
+- Precision  
+- Recall  
+- F1-Score  
+- Confusion Matrix  
+- Training & Validation Loss Curves  
 
-1. **Data Preprocessing** – Cleaning, resizing, and normalizing traffic sign images.  
-2. **CNN Implementation** – Building and training the CNN model as described in the paper.  
-3. **Evaluation** – Measuring model accuracy, analyzing results, and discussing limitations.  
-4. **Analysis & Review** – Understanding the paper’s methodology and experimental design.
+## 🚀 How to Run
 
----
-
-## Installation & Usage
-
-### 1. Clone the Repository
 ```bash
 git clone https://github.com/Kalingu/traffic-sign-detection-paper-review.git
 cd traffic-sign-detection-paper-review
-```
-### 2. Install Dependencies
-```bash
 pip install -r requirements.txt
-```
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-### 4. Install Dependencies
-```bash
-Run the Notebook
-```
+jupyter notebook
+
