@@ -18,3 +18,25 @@ Traffic sign detection is essential for autonomous driving, advanced driver-assi
 2. **CNN Implementation** – Building and training the CNN model as described in the paper.  
 3. **Evaluation** – Measuring model accuracy, analyzing results, and discussing limitations.  
 4. **Analysis & Review** – Understanding the paper’s methodology and experimental design.
+
+---
+
+## Installation & Usage
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Kalingu/traffic-sign-detection-paper-review.git
+cd traffic-sign-detection-paper-review
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Install Dependencies
+```bash
+Run the Notebook
+```
